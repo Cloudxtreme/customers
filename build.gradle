@@ -1,0 +1,8 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+version = '0.0.1.very.alpha'
+
+repositories {
+    mavenCentral()
+}
